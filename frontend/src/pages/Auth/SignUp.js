@@ -129,9 +129,10 @@ const SignUp = ({ history, refetch }) => {
           <Heading color="white">Connect with friends and the world around you.</Heading>
         </div>
 
-        <p>See photos and updates from your friends.</p>
-        <p>Follow your interests.</p>
-        <p>Hear what people are talking about.</p>
+        <p>✓ Follow People.</p>
+        <p>✓ Like and comment to the post of people you followed.</p>
+        <p>✓ Message any people and make friends!</p>
+        <p>✓ And More.</p>
       </Welcome>
 
       <Form>

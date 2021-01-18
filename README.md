@@ -79,7 +79,6 @@ To create a new app, you may choose one of the following methods:
 npx create-social-network my-network
 ```
 
-_([npx](https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b) comes with npm 5.2+ and higher, see [instructions for older npm versions](https://gist.github.com/DimiMikadze/142aba2c0a898843d765b3e4870870ce))_
 
 ### npm
 
@@ -124,17 +123,9 @@ Open [http://localhost:3000/](http://localhost:3000/) to view it in the browser.
 
 The page will automatically reload if you make changes to the code.
 
-## Deployment
 
-In development mode we are starting `api` and `frontend` servers with one command, but we need to deploy them separately.
 
-[API Deployment](https://github.com/dimimikadze/create-social-network/tree/master/api#api-deployment-to-heroku)
 
-[Frontend Deployment](https://github.com/dimimikadze/create-social-network/tree/master/frontend#frontend-deployment-to-netlify)
-
-## Contributing
-
-Please read our [CONTRIBUTING.md](https://github.com/dimimikadze/create-social-network/blob/master/CONTRIBUTING.md) before submitting a Pull Request to the project.
 
 ## License
 
